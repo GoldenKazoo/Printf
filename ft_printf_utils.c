@@ -29,5 +29,3 @@ int	ft_putstr(char *str, int *counter)
 	}
 	return (*counter);
 }
-
-
